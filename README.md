@@ -3,7 +3,7 @@ Contains all course materials from the HPML group
 
 ## Example course
 ### Day 2:  
-9:30 – 10:45	Software installations on HPC systems  
+09:30 – 10:45	Software installations on HPC systems  
 10:45 – 11:00	Coffee break  
 11:00 – 11:30	Packed file formats  
 11:30 – 12:15	Hands-on: Packed file formats  
