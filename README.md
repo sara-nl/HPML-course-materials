@@ -43,6 +43,6 @@ Profiling PyTorch with TensorBoard
 12:15 – 13:15	Lunch Break  
 13:15 – 14:45	Parallel Computing for Deep Learning  (Lars Veefkind)   
 14:45 – 15:00	Coffee Break  
-15:00 – 15:45	Hardware and software features to accelerate deep learning (Robert Jan Schlimbach)  
+15:00 – 15:45	Hardware and software features to accelerate deep learning (Lars Veefkind)  
 15:45 – 16:45	Profiling to understand your neural network’s performance  (Robert Jan Schlimbach)  
 16:45 – 17:00	Questions, wrap up  
