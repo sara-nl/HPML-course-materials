@@ -3,16 +3,16 @@ Contains all course materials from the HPML group
 
 ## Course Overview  
 ### Day 1:
-Introduction to Deep Learning   
-Using the PyTorch framework  
-Fully connected networks, Convolutional networks, Transformers (time permitting)
+- Introduction to Deep Learning   
+- Using the PyTorch framework  
+- Fully connected networks, Convolutional networks, Transformers (time permitting)
 
 ### Day 2: 
-Software installations on HPC systems   
-Packed file formats for Machine Learning    
-Parallel computing for deep learning    
-Hardware (e.g. Tensor cores) and software features (e.g. low level libraries for deep learning) for accelerated deep learning   
-Profiling PyTorch with TensorBoard  
+- Software installations on HPC systems   
+- Packed file formats for Machine Learning    
+- Parallel computing for deep learning    
+- Hardware (e.g. Tensor cores) and software features (e.g. low level libraries for deep learning) for accelerated deep learning   
+- Profiling PyTorch with TensorBoard  
 
 
 ## Detailed Course Plan
