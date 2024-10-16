@@ -1,6 +1,6 @@
 # HPML-course-materials
 Contains all course materials from the HPML group
-Course environment: https://jupyter.snellius.surf.nl/jhssrf014/
+Course environment: https://jupyter.snellius.surf.nl/jhssrf015/
 
 ## Course Overview  
 ### Day 1:
