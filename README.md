@@ -30,7 +30,7 @@ Course environment: https://jupyter.snellius.surf.nl/jhssrf015/
 13:45 – 14:30   Hands-on: Convolutional neural networks (Lars Veefkind)     
 14:30 – 14:45   Recap hands-on  
 14:45 – 15:00	Coffee Break    
-15:00 – 15:45	Self-attention / Transformers (Simone van Bruggen)   
+15:00 – 15:45	LLMs / Transformers (Simone van Bruggen)   
 15:45 – 16:30	Hands-on/demo notebook: Transformers    
 16:30 – 17:00	Questions, wrap up  
 
