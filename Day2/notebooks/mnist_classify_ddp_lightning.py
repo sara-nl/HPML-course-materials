@@ -8,6 +8,7 @@ from torch.optim.lr_scheduler import StepLR
 import pytorch_lightning as L
 from torch.utils.data import DataLoader, random_split
 import os
+torch.set_float32_matmul_precision('high')
 
 
 
@@ -90,13 +91,13 @@ class MNISTClassifier(L.LightningModule):
             self.mnist_test = datasets.MNIST(self.data_dir, train=False, transform=self.transform)
 
     def train_dataloader(self):
-        return DataLoader(self.mnist_train, batch_size=self.batch_size, shuffle="True")
+        return DataLoader(self.mnist_train, batch_size=self.batch_size, shuffle="True", num_workers=3)
 
     def val_dataloader(self):
-        return DataLoader(self.mnist_val, batch_size=self.batch_size)
+        return DataLoader(self.mnist_val, batch_size=self.batch_size, num_workers=3)
 
     def test_dataloader(self):
-        return DataLoader(self.mnist_test, batch_size=self.test_batch_size)
+        return DataLoader(self.mnist_test, batch_size=self.test_batch_size, num_workers=3)
 
 
 def main():
