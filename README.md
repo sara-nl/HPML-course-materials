@@ -35,7 +35,6 @@ Course environment: https://jupyter.snellius.surf.nl/jhssrf014/
 16:45 – 17:00	Questions, wrap up  
 
 
-
 ### Day 2:  
 09:30 – 10:45	Software installations on HPC systems (Robert Jan Schlimbach)   
 10:45 – 11:00	Coffee break  
