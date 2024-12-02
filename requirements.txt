@@ -1,0 +1,16 @@
+torch
+torchvision
+torchmetrics
+matplotlib
+Pillow
+lightning
+seaborn
+ipywidgets
+scipy
+numpy
+
+# These are for pandas
+numexpr
+bottleneck
+
+"torch-tb-profiler @ git+https://github.com/pytorch/kineto#subdirectory=tb_plugin"
