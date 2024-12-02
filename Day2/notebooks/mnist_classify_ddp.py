@@ -85,8 +85,8 @@ def train(args, model, device, train_loader, optimizer, epoch):
     
     ######## throughput #######################
     # average time per batch in seconds
-    #throughput = (repetitions*args.batch_size) / total_time
-    #print(f"number of images/s through the model during training: {throughput}")
+    throughput = (repetitions*args.batch_size) / total_time
+    print(f"number of images/s through the model during training: {throughput}")
     ######## throughput #######################
 
 def test(model, device, test_loader):
