@@ -35,15 +35,14 @@ Course environment: https://jupyter.snellius.surf.nl/jhssrf019
 16:30 – 17:00	Questions, wrap up  
 
 
-
 ### Day 2:  
-9:00 - 10:15    Parallel Computing for Deep Learning  (Lars Veefkind)   
+9:00 - 10:15 Software installations on HPC systems (Robert Jan Schlimbach)  
 10:15 – 10:30	Coffee break  
-10:30 – 11:00	Packed file formats (Monica Rotulo)     
-11:00 – 11:45	Hands-on: Packed file formats (Monica Rotulo)   
+10:30 – 11:00	Packed file formats (Robert Jan Schlimbach)     
+11:00 – 11:45	Hands-on: Packed file formats (Robert Jan Schlimbach)   
 11:45 – 12:45	Lunch Break  
-12:45 – 14:15	Software installations on HPC systems (Robert Jan Schlimbach/Monica Rotulo)  
+12:45 – 14:15	Hardware and software features to accelerate deep learning (Monica Rotulo)  
 14:15 – 14:30	Coffee Break  
-14:30 – 15:15	Hardware and software features to accelerate deep learning (Monica Rotulo)  
-15:15 – 16:15	Profiling to understand your neural network’s performance  (Robert Jan Schlimbach/Lars Veefkind)  
+14:30 – 15:15	Parallel Computing for Deep Learning  (Lars Veefkind)  
+15:15 – 16:15	Profiling to understand your neural network’s performance  (Lars Veefkind)  
 16:15 – 17:00	Questions, wrap up  
