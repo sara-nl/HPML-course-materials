@@ -21,6 +21,6 @@ export MASTER_ADDR=$master_addr
 echo "MASTER_ADDR="$MASTER_ADDR
 
 # minst_classify_ddp.py expects TEACHER_DIR to be set in order to find the data
-export TEACHER_DIR=/projects/0/jhssrf015
+export TEACHER_DIR=/projects/0/jhssrf019
 
 srun python mnist_classify_ddp.py --batch-size 128 --epochs 1

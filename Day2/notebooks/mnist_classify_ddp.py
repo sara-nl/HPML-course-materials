@@ -167,7 +167,7 @@ def main():
     MNIST_DATA = os.path.join(DATA_PATH, 'JHS_data')
     
     # LOAD MNIST
-    train_dset = datasets.MNIST(MNIST_DATA, train=True, download=False,
+    train_dset = datasets.MNIST(MNIST_DATA, train=True, download=True,
                        transform=transform)
     test_dset = datasets.MNIST(MNIST_DATA, train=False,
                        transform=transform)

@@ -18,7 +18,7 @@ master_addr=$(scontrol show hostnames "$SLURM_JOB_NODELIST" | head -n 1)
 export MASTER_ADDR=$master_addr
 
 # minst_classify_ddp.py expects TEACHER_DIR to be set in order to find the data
-export TEACHER_DIR=/projects/0/jhssrf015
+export TEACHER_DIR=/projects/0/jhssrf019
 
 # Specify the path to the config file
 config=$HOME/JHS_notebooks/HPML-course-materials/Day2/notebooks/array_config.txt
