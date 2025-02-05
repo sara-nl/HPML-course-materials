@@ -46,3 +46,9 @@ Course environment: https://jupyter.snellius.surf.nl/jhssrf019
 14:30 – 15:15	Parallel Computing for Deep Learning  (Lars Veefkind)  
 15:15 – 16:15	Profiling to understand your neural network’s performance  (Lars Veefkind)  
 16:15 – 17:00	Questions, wrap up  
+
+
+
+## Other courses and resources
+- AI Guide by LUMI: https://github.com/Lumi-supercomputer/LUMI-AI-Guide
+- LLMs on supercomputers: https://gitlab.tuwien.ac.at/vsc-public/training/LLMs-on-supercomputers 
