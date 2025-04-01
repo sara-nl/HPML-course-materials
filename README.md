@@ -40,7 +40,7 @@ Course environment: TBD
 10:15 – 10:30	Coffee break  
 10:30 – 11:00	Packed file formats (Bryan Cardenas)     
 11:00 – 11:30	Hands-on: Packed file formats (Bryan Cardenas)  
-11:30 - 12:30 Keynote: Vlado Menkovski
+11:30 - 12:30 Keynote: Vlado Menkovski  
 12:30 – 13:15	Lunch Break  
 13:15 – 14:15	Hardware and software features to accelerate deep learning (Lars Veefkind)  
 14:15 – 14:30	Coffee Break  
