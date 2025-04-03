@@ -21,7 +21,7 @@ export MASTER_ADDR=$master_addr
 echo "MASTER_ADDR="$MASTER_ADDR
 
 # minst_classify_ddp.py expects TEACHER_DIR to be set in order to find the data
-export TEACHER_DIR=/projects/0/jhssrf019
+export TEACHER_DIR=/projects/0/jhssrf020
 
 # PyTorch Lightning is installed in JHS_installations for this course
 # Set PYTHONPATH to make sure it is found
