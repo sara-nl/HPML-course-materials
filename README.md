@@ -19,27 +19,27 @@ Course environment: TBD
 ## Detailed Course Plan
 
 ### Day 1
-09:00 – 9:20    Welcome and course overview (Lars Veefkind)     
-09:20 – 10:00   Introduction to ML & DL basic principles (Lars Veefkind)    
-10:00 – 10:30   Introduction to PyTorch (notebook) (Lars Veefkind)  
-10:30 – 10:45	Coffee break    
-10:45 – 11:30	Hands-on: Fully connected network (Lars Veefkind)   
+09:30 – 9:40    Welcome and course overview (Lars Veefkind)     
+09:40 – 10:20   Introduction to ML & DL basic principles (Lars Veefkind)    
+10:20 – 10:40   Introduction to PyTorch (notebook) (Lars Veefkind)  
+10:40 – 10:50	Coffee break    
+10:50 – 11:30	Hands-on: Fully connected network (Lars Veefkind)   
 11:30 – 11:45	Recap Hands-on  
 11:45 – 12:45   Lunch Break     
 12:45 – 13:45	Convolutional neural networks (Lars Veefkind)   
 13:45 – 14:30   Hands-on: Convolutional neural networks (Lars Veefkind)     
 14:30 – 14:45   Recap hands-on  
 14:45 – 15:00	Coffee Break    
-15:00 – 15:45	LLMs / Transformers (Bryan Cardenas)   
-15:45 – 16:30	Hands-on/demo notebook: Transformers (Bryan Cardenas)   
+15:00 – 15:45	LLMs / Transformers (Bryan Cardenas Guevara)   
+15:45 – 16:30	Hands-on/demo notebook: Transformers (Bryan Cardenas Guevara)   
 16:30 – 17:00	Questions, wrap up  
 
 
 ### Day 2:  
-9:00 - 10:15 Software installations on HPC systems (Bryan Cardenas)  
-10:15 – 10:30	Coffee break  
-10:30 – 11:00	Packed file formats (Bryan Cardenas)     
-11:00 – 11:30	Hands-on: Packed file formats (Bryan Cardenas)  
+9:30 - 10:45 Software installations on HPC systems (Bryan Cardenas Guevara)  
+10:45 – 10:55	Coffee break  
+10:55 – 11:10	Packed file formats (Bryan Cardenas Guevara)     
+11:10 – 11:30	Hands-on: Packed file formats (Bryan Cardenas Guevara)  
 11:30 - 12:30 Keynote: Vlado Menkovski  
 12:30 – 13:15	Lunch Break  
 13:15 – 14:15	Hardware and software features to accelerate deep learning (Lars Veefkind)  
