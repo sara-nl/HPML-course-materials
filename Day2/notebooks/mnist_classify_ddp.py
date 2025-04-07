@@ -97,7 +97,7 @@ def train(args, model, device, train_loader, optimizer, epoch):
     # average time per batch in seconds
     throughput = (repetitions * args.batch_size) / total_time
     print(
-        f"number of images/s through the model during training (total: {throughput * int(os.environ['SLURM_NTASKS']):0.2f} per device device: {throughput:0.2f})"
+        f"number of images/s through the model during training (total: {throughput * int(os.environ['SLURM_NTASKS']):0.2f} per device: {throughput:0.2f})"
     )
     ######## throughput #######################
 
