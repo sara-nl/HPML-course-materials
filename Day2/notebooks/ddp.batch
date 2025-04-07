@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=mnist-ddp
-#SBATCH --partition=gpu
+#SBATCH --partition=gpu_a100
 #SBATCH --time=10:00
 #SBATCH --nodes=1 
 #SBATCH --ntasks-per-node=4
