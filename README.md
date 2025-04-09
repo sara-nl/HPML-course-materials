@@ -36,7 +36,7 @@ Course environment: https://jupyter.snellius.surf.nl/jhssrf020
 
 
 ### Day 2:  
-9:30 - 10:45 Software installations on HPC systems (Bryan Cardenas Guevara)  
+9:30 - 10:45 Intro to DL distributed training (Bryan Cardenas Guevara)  
 10:45 – 10:55	Coffee break  
 10:55 – 11:10	Packed file formats (Bryan Cardenas Guevara)     
 11:10 – 11:30	Hands-on: Packed file formats (Bryan Cardenas Guevara)  
