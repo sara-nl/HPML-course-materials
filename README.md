@@ -3,7 +3,7 @@ Contains all course materials from the HPML group
 Course environment: https://jupyter.snellius.surf.nl/jhssrf020
 
 ## Course Overview  
-### Day 1:
+### Day 1: 
 - Introduction to Deep Learning   
 - Using the PyTorch framework  
 - Fully connected networks, Convolutional networks, Transformers
