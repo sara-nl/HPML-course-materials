@@ -1,6 +1,6 @@
 # HPML-course-materials
 Contains all course materials from the HPML group
-Course environment: https://jupyter.snellius.surf.nl/jhssrf020
+Course environment: https://jupyter.snellius.surf.nl/jhssrf021
 
 ## Course Overview  
 - Software installations on HPC systems   
