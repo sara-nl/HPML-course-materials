@@ -1,6 +1,6 @@
 # HPML-course-materials
 Contains all course materials from the HPML group
-Course environment: [https://jupyter.snellius.surf.nl/jhssrf023](https://jupyter.snellius.surf.nl/jhssrf024)
+Course environment: [https://jupyter.snellius.surf.nl/jhssrf024](https://jupyter.snellius.surf.nl/jhssrf024)
 
 ## Course Overview  
 - Parallel computing for deep learning
