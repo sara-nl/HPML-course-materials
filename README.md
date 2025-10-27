@@ -1,11 +1,19 @@
 # HPML-course-materials
 Contains all course materials from the HPML group
-Course environment: https://jupyter.snellius.surf.nl/jhssrf023
+Course environment: https://ondemand.snellius.surf.nl
+- Login with scurXXX login
+- Click on "Jupyter"
+- "Select environment module version" -> Course
+- Memory: 16 (GB)
+- GPUs: 1
+- time: e.g. 1:30:00 (1h30m)
+
 
 ## Course Overview  
-- Parallel computing for deep learning
 - Hardware (e.g. Tensor cores) and software features (e.g. low level libraries for deep learning) for accelerated deep learning
+- Packed data formats
 - Profiling PyTorch with TensorBoard
+- Parallel computing for deep learning
 
 ## Profiling
 ```bash
