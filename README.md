@@ -5,6 +5,7 @@ Course environment: https://ondemand.snellius.surf.nl
 - Click on "Jupyter"
 - "Select environment module version" -> Course
 - Memory: 16 (GB)
+- CPU cores: 2
 - GPUs: 1
 - time: e.g. 1:30:00 (1h30m)
 
