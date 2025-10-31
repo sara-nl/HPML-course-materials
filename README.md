@@ -3,6 +3,7 @@ Contains all course materials from the HPML group
 Course environment: https://ondemand.snellius.surf.nl
 - Login with scurXXX login
 - Click on "Jupyter"
+- Select "partition" -> gpu_course
 - "Select environment module version" -> Course
 - Memory: 16 (GB)
 - CPU cores: 2
