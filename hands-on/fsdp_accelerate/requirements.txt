@@ -1,0 +1,10 @@
+ninja
+packaging
+transformers
+datasets
+trl
+accelerate
+liger-kernel
+tensorboard
+huggingface_hub
+wheel
