@@ -18,7 +18,7 @@ Course environment: https://ondemand.snellius.surf.nl
 - Parallel computing for deep learning
 
 ## Schedule
-09:30 - 10:15 Intro to HPC+AI and PyTorch rapidfire  
+09:30 - 10:30 Intro to HPC+AI and PyTorch rapidfire  
 10:30 - 10:45 pauze  
 10:45 - 11:30 Packed file formats & Distribution techniques  
 11:30 - 12:30 keynote  
