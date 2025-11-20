@@ -39,7 +39,7 @@ pip install git+https://github.com/pytorch/kineto.git#subdirectory=tb_plugin
 
 git clone --depth=1 https://github.com/SURF-ML/HPML-course-materials.git
 
-tensorboard --logdir HPML-course-materials/Day2/notebooks/logs/
+tensorboard --logdir HPML-course-materials/hands-on/profiling/logs/
 ```
 
 
