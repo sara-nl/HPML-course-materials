@@ -19,9 +19,8 @@ Course environment: https://ondemand.snellius.surf.nl
 
 ## Schedule
 09:30 - 10:15 Intro to HPC+AI and PyTorch rapidfire  
-10:15- 10:30 pauze  
-10:30 - 11:15 Packed file formats & Distribution techniques  
-11:15 - 11:30 pauze  
+10:30 - 10:45 pauze  
+10:45 - 11:30 Packed file formats & Distribution techniques  
 11:30 - 12:30 keynote  
 12:30 - 13:30 lunch  
 13:30 - 13:45 DDP example  
