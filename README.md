@@ -17,6 +17,20 @@ Course environment: https://ondemand.snellius.surf.nl
 - Profiling PyTorch with TensorBoard
 - Parallel computing for deep learning
 
+## Schedule
+09:30 - 10:15 Intro to HPC+AI and PyTorch rapidfire
+10:15- 10:30 pauze
+10:30 - 11:15 Packed file formats & Distribution techniques
+11:15 - 11:30 pauze
+11:30 - 12:30 keynote
+12:30 - 13:30 lunch
+13:30 - 13:45 DDP example
+13:45 - 14:30 Distributed training (hands-on)
+14:30 - 14:45 pauze
+14:45 - 15:00 Intro to profiling
+15:00 - 15:45 Profiling hands-on
+15:45 - 16:00 Q&A 
+
 ## Profiling
 ```bash
 python3 -m venv venv
