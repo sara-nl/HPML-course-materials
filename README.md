@@ -12,34 +12,8 @@ Course environment: https://ondemand.snellius.surf.nl
 
 
 ## Course Overview  
-- Hardware (e.g. Tensor cores) and software features (e.g. low level libraries for deep learning) for accelerated deep learning
-- Packed data formats
-- Profiling PyTorch with TensorBoard
-- Parallel computing for deep learning
-
-## Schedule
-09:30 - 10:30 Intro to HPC+AI and PyTorch rapidfire  
-10:30 - 10:45 pauze  
-10:45 - 11:30 Packed file formats & Distribution techniques  
-11:30 - 12:30 keynote  
-12:30 - 13:30 lunch  
-13:30 - 13:45 DDP example  
-13:45 - 14:30 Distributed training (hands-on)  
-14:30 - 14:45 pauze  
-14:45 - 15:00 Intro to profiling  
-15:00 - 15:45 Profiling hands-on  
-15:45 - 16:00 Q&A 
-
-## Profiling
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install git+https://github.com/pytorch/kineto.git#subdirectory=tb_plugin
-
-git clone --depth=1 https://github.com/SURF-ML/HPML-course-materials.git
-
-tensorboard --logdir HPML-course-materials/hands-on/profiling/logs/
-```
+- Introduction to machine learning and deep learning fundamentals
+- Transformers and LLMs
 
 
 ## Other courses and resources
