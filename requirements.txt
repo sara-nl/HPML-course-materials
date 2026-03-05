@@ -8,6 +8,11 @@ seaborn
 ipywidgets
 scipy
 numpy
+unsloth
+trl
+transformers
+datasets
+accelerate
 
 # These are for pandas
 numexpr
